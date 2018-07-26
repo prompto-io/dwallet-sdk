@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # wallet-sdk
 
 Wallet
@@ -188,9 +188,3 @@ Authentication schemes defined for the API:
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
 ## Author
-
-
-
-=======
-# dwallet-sdk
->>>>>>> 9b20ef4619f134b96c6b0abef11153b994b0aa67
