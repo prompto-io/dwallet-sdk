@@ -1,0 +1,7 @@
+io/wallet/sdk/api/TransactionUiResourceApiTest.class
+io/wallet/sdk/api/ClientDetailsUiResourceApiTest.class
+io/wallet/sdk/api/JsTrackerControllerApiTest.class
+io/wallet/sdk/api/PaymentMethodUiResourceApiTest.class
+io/wallet/sdk/api/UserUiResourceApiTest.class
+io/wallet/sdk/api/StatusApiControllerApiTest.class
+io/wallet/sdk/api/PartnerUiResourceApiTest.class
